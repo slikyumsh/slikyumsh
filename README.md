@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/3618266/pub_5f1182381015531af6e4ab7c_5f1183926e665c07d059112b/orig" width="600" height="400"/>
+<div align="left">
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/3618266/pub_5f1182381015531af6e4ab7c_5f1183926e665c07d059112b/orig" width="400"/>
 </div>
 
 ### About me
