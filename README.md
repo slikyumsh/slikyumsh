@@ -4,7 +4,7 @@
 
 ### About me
 👨🏻‍💻 Machine Learning and Computer Vision Engineer based in Saint Petersburg  
-👨‍🎓 ITMO University 4th year student  
+👨‍🎓 ITMO University's Ms 1th year student  
 📉 Fan of Math  
 ⚽  Like sport and keep myself in shape  
 
